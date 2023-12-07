@@ -26,4 +26,4 @@ jobs:
         run: |
           mvn sonar:sonar \
             -Dsonar.host.url=http://localhost:9000
-            -Dsonar.login=${{squ_afede2fa3f45b8af442323f467ffe3a05aa1aa56}}
+            -Dsonar.login=${{squ_d49c14a014a48d06c60328c88ca2a85b4c9f7a82}}
